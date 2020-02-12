@@ -46,7 +46,7 @@ defer==1.0.6
 defusedxml==0.6.0
 Deprecated==1.2.5
 distro-info==0.18
-Django==2.1.4
+Django==2.2.10
 django-materialize==1.0.1a2
 docutils==0.14
 docx2txt==0.6
