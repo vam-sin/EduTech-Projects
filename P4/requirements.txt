@@ -170,7 +170,7 @@ pocketsphinx==0.1.3
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
 protobuf==3.8.0
-psutil==5.4.2
+psutil==5.6.6
 psycopg2==2.7.5
 ptyprocess==0.6.0
 py==1.8.0
