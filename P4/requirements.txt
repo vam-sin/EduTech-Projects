@@ -184,7 +184,7 @@ pycrypto==2.6.1
 pycups==1.9.73
 pyflakes==1.6.0
 PyGithub==1.43.7
-Pygments==2.4.2
+Pygments==2.7.4
 pygobject==3.26.1
 PyInstaller==3.4
 PyJWT==1.7.1
