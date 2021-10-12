@@ -149,7 +149,7 @@ nwalign==0.3.1
 oauth==1.0.1
 oauthlib==2.1.0
 olefile==0.45.1
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 openshot-qt==2.4.1
 packaging==19.0
 pandas==0.24.2
