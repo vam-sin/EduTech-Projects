@@ -195,7 +195,7 @@ PyNaCl==1.1.2
 pyopa==0.8.0
 pyoperators==0.13.16
 pyparsing==2.4.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyRFC3339==1.0
 pyrsistent==0.15.2
 pyspark==2.4.0
