@@ -6,7 +6,7 @@ appdirs==1.4.3
 apturl==0.5.2
 argcomplete==1.8.2
 arrayfire==3.6.20181017
-arrow==0.13.1
+arrow==0.15.1
 asn1crypto==0.24.0
 astor==0.8.0
 astroid==1.6.0
