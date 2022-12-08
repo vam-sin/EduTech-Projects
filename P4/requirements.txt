@@ -27,7 +27,7 @@ bottle-websocket==0.2.9
 Brlapi==0.6.6
 bz2file==0.98
 CacheControl==0.12.5
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
